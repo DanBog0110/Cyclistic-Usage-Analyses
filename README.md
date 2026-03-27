@@ -1,12 +1,12 @@
 # Cyclistic Bike-Share Analysis
 
-## 📌 Business Problem
+## Business Problem
 Cyclistic aims to increase the number of annual members, as they are more profitable than casual riders.  
 The objective of this analysis is to identify behavioral differences between casual riders and members to support conversion strategies.
 
 ---
 
-## 📊 Data
+## Data
 - Source: Divvy public dataset
 - Period: 12 months
 - Size: ~5.6 million records
@@ -14,14 +14,14 @@ The objective of this analysis is to identify behavioral differences between cas
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - PostgreSQL — data cleaning & analysis  
 - Excel — preprocessing  
 - Power BI — visualization  
 
 ---
 
-## ⚙️ Process
+## Process
 1. Data cleaning (duplicates, invalid trips)
 2. Feature engineering (ride_length, day_of_week)
 3. SQL analysis (user behavior, seasonality, bike type)
@@ -29,7 +29,7 @@ The objective of this analysis is to identify behavioral differences between cas
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Members generate the majority of rides → routine usage  
 - Casual riders have significantly longer trips → leisure behavior  
@@ -39,7 +39,7 @@ The objective of this analysis is to identify behavioral differences between cas
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 1. Launch seasonal campaigns focused on summer  
 2. Position membership as a leisure product, not only commuting  
@@ -47,13 +47,13 @@ The objective of this analysis is to identify behavioral differences between cas
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 ![Dashboard](dashboard/dashboard.png)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `/docs` — full case study  
 - `/sql` — SQL analysis  
@@ -63,6 +63,6 @@ The objective of this analysis is to identify behavioral differences between cas
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 Casual riders demonstrate high engagement during peak periods (especially summer), making them the most promising segment for conversion into annual members.
